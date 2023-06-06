@@ -1,5 +1,6 @@
 """Test for pyesa.client module."""
 import pytest
+
 from pyesa import client
 
 
